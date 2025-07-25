@@ -1,0 +1,57 @@
+{
+    "ID": 112,
+    "post_author": "0",
+    "post_date": "2023-03-21 09:39:08",
+    "post_date_gmt": "2023-03-21 09:39:08",
+    "post_content": "<div class=\"portals_personal_info\">[display_name]\n<span class=\"portals_personal_details\"><br \/>[576]<br \/>\n[572]<br \/>\n[587]<\/div>\n",
+    "post_title": "Staff Info Update Button ID",
+    "post_excerpt": "",
+    "post_status": "private",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "post_password": "",
+    "post_name": "staff-info-update-button-id",
+    "to_ping": "",
+    "pinged": "",
+    "post_modified": "2025-07-25 14:00:43",
+    "post_modified_gmt": "2025-07-25 14:00:43",
+    "post_content_filtered": "",
+    "post_parent": 0,
+    "guid": "https:\/\/test1.biocensus.co.uk\/frm_display\/staff-info-update-button-id\/",
+    "menu_order": 0,
+    "post_type": "frm_display",
+    "post_mime_type": "",
+    "comment_count": "0",
+    "filter": "raw",
+    "form_key": "tj0g6",
+    "meta": {
+        "frm_form_id": [
+            "42"
+        ],
+        "frm_show_count": [
+            "all"
+        ],
+        "frm_options": [
+            "a:21:{s:13:\"date_field_id\";s:0:\"\";s:14:\"edate_field_id\";s:0:\"\";s:21:\"repeat_event_field_id\";s:0:\"\";s:21:\"repeat_edate_field_id\";s:0:\"\";s:14:\"before_content\";s:0:\"\";s:13:\"after_content\";s:0:\"\";s:9:\"empty_msg\";s:271:\"<div style=\"float:right; font-size:0.8em; line-height: 0.8em;;color:#425968;\">[display_name]\n<span style=\"font-size:0.5em;\"><br \/>You don't seem to have an entry on the Staff Info list. Please contact Business Support.<\/div><\/div><h2 style=\"color:#425968;\">Your Info<\/h2>\";s:5:\"limit\";s:0:\"\";s:9:\"page_size\";s:0:\"\";s:5:\"no_rt\";i:0;s:15:\"ajax_pagination\";s:1:\"0\";s:5:\"where\";a:1:{i:0;i:560;}s:8:\"where_is\";a:1:{i:0;s:1:\"=\";}s:9:\"where_val\";a:1:{i:0;s:12:\"current_user\";}s:8:\"where_or\";a:1:{i:0;i:0;}s:11:\"where_group\";a:1:{i:0;i:0;}s:14:\"where_group_or\";a:1:{i:0;i:0;}s:8:\"filename\";s:0:\"\";s:16:\"export_link_text\";s:13:\"Export to CSV\";s:18:\"export_with_params\";s:1:\"0\";s:20:\"view_export_possible\";i:0;}"
+        ],
+        "frm_param": [
+            "entry"
+        ],
+        "frm_dyncontent": [
+            ""
+        ],
+        "frm_type": [
+            "id"
+        ],
+        "frm_active_preview_filter": [
+            "limited"
+        ],
+        "view_uuid": [
+            "6c6d9c85-55b2-4917-b137-9a40181d44c3"
+        ],
+        "frm_view_type": [
+            "classic"
+        ]
+    },
+    "layout": null
+}

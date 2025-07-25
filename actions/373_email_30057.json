@@ -1,0 +1,31 @@
+{
+    "ID": 179,
+    "post_author": "0",
+    "post_date": "2025-07-25 14:00:48",
+    "post_date_gmt": "0000-00-00 00:00:00",
+    "post_content": "{\"event\":[\"create\"],\"email_to\":\"[9481 show=9485]\",\"cc\":\"\",\"bcc\":\"\",\"from\":\"[sitename] <[admin_email]>\",\"reply_to\":\"\",\"email_subject\":\"Vehicle Checks Reminder\",\"email_message\":\"<p>Hello<\/p>rn<p>The last time that vehicle reg [9481 show=9476] had a check submitted via the Staff Portal was [9408].<\/p>rn<p>Please could you make sure that a new vehicle check is done asap.<\/p>rn<p>Thank you!<\/p>\",\"email_attachment_id\":\"\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"autoresponder\":{\"is_active\":\"\",\"do_default_trigger\":\"no\",\"send_interval\":\"1\",\"send_unit\":\"days\",\"send_before_after\":\"after\",\"send_date\":\"\",\"send_after_interval_type\":\"number\",\"send_after_interval\":\"0\",\"send_after_unit\":\"days\",\"send_after_count\":\"1\"}}",
+    "post_title": "RSK Vehicle Reminder Email",
+    "post_excerpt": "",
+    "post_status": "draft",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "post_password": "",
+    "post_name": "373_email_30057",
+    "to_ping": "",
+    "pinged": "",
+    "post_modified": "2025-07-25 14:00:48",
+    "post_modified_gmt": "0000-00-00 00:00:00",
+    "post_content_filtered": "",
+    "post_parent": 0,
+    "guid": "http:\/\/test1.biocensus.co.uk\/?post_type=frm_form_actions&p=179",
+    "menu_order": 25,
+    "post_type": "frm_form_actions",
+    "post_mime_type": "",
+    "comment_count": "0",
+    "filter": "raw",
+    "meta": {
+        "_wp_old_slug": [
+            "373_email_"
+        ]
+    }
+}

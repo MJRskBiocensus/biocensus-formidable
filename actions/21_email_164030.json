@@ -1,0 +1,31 @@
+{
+    "ID": 170,
+    "post_author": "0",
+    "post_date": "2025-07-25 14:00:48",
+    "post_date_gmt": "2025-07-25 14:00:48",
+    "post_content": "{\"event\":[\"user_registration\"],\"email_to\":\"[814]\",\"cc\":\"lisa.thrower@rskbiocensus.com\",\"bcc\":\"\",\"from\":\"[sitename] <[admin_email]>\",\"reply_to\":\"\",\"email_subject\":\"Welcome to [sitename]\",\"email_message\":\"<p>A staff account has been created for you on [sitename]. Your username is [9701 show=user_login].<\/p>rn<p>To set your password, please visit the following address:rn[frm-set-password-link user_id=\"[9701 show=ID]\"]<\/p>rnYou will receive a follow up email with further information.rn\",\"email_attachment_id\":\"\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"autoresponder\":{\"is_active\":\"\",\"do_default_trigger\":\"no\",\"send_interval\":\"30\",\"send_unit\":\"days\",\"send_before_after\":\"after\",\"send_date\":\"update\",\"send_after_interval_type\":\"number\",\"send_after_interval\":\"0\",\"send_after_unit\":\"days\",\"send_after_count\":\"1\"}}",
+    "post_title": "User Email Notification",
+    "post_excerpt": "",
+    "post_status": "publish",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "post_password": "",
+    "post_name": "21_email_164030",
+    "to_ping": "",
+    "pinged": "",
+    "post_modified": "2025-07-25 14:00:48",
+    "post_modified_gmt": "2025-07-25 14:00:48",
+    "post_content_filtered": "",
+    "post_parent": 0,
+    "guid": "http:\/\/test1.biocensus.co.uk\/frm_form_actions\/21_email_164030\/",
+    "menu_order": 24,
+    "post_type": "frm_form_actions",
+    "post_mime_type": "",
+    "comment_count": "0",
+    "filter": "raw",
+    "meta": {
+        "_jetpack_post_was_ever_published": [
+            "1"
+        ]
+    }
+}
