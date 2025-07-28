@@ -50,9 +50,7 @@
                 "show_hide": "show",
                 "any_all": "any",
                 "hide_field": [],
-                "hide_field_cond": [
-                    "=="
-                ],
+                "hide_field_cond": [],
                 "hide_opt": [],
                 "post_field": "",
                 "custom_field": "",
@@ -122,25 +120,29 @@
             "form_name": "Mustafa-A"
         },
         {
-            "id": "1062",
-            "field_key": "2j0e9",
+            "id": "1064",
+            "field_key": "amjo",
             "name": "Mustafa-B",
             "description": "",
             "type": "text",
             "default_value": "",
             "options": "",
-            "field_order": "10002",
-            "required": "0",
+            "field_order": "10004",
+            "required": "1",
             "field_options": {
                 "align": "block",
                 "form_select": "",
                 "show_hide": "show",
                 "any_all": "any",
-                "hide_field": [],
+                "hide_field": [
+                    "811"
+                ],
                 "hide_field_cond": [
                     "=="
                 ],
-                "hide_opt": [],
+                "hide_opt": [
+                    "yes"
+                ],
                 "post_field": "",
                 "custom_field": "",
                 "taxonomy": "category",
@@ -191,13 +193,13 @@
                 "invalid": "[field_name] is invalid",
                 "separate_value": 0,
                 "clear_on_focus": 0,
-                "classes": "",
+                "classes": "frm_half",
                 "custom_html": "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<label for=\"field_[key]\" id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/label>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>",
                 "minnum": 1,
                 "maxnum": 10,
                 "step": 1,
                 "format": "",
-                "placeholder": "",
+                "placeholder": "placeholder",
                 "draft": 0,
                 "auto_address": 0,
                 "geo_show_map": 0,
@@ -205,7 +207,7 @@
                 "btsp": ""
             },
             "form_id": "36",
-            "created_at": "2025-07-25 15:53:11",
+            "created_at": "2025-07-28 10:34:06",
             "form_name": "Mustafa-A"
         },
         {
@@ -216,7 +218,7 @@
             "type": "submit",
             "default_value": "",
             "options": [],
-            "field_order": "10003",
+            "field_order": "10005",
             "required": "0",
             "field_options": {
                 "align": "",
