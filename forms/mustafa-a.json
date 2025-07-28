@@ -37,7 +37,7 @@
         {
             "id": "811",
             "field_key": "qtha0",
-            "name": "Mustafa-A-updated",
+            "name": "Mustafa-A-New-updated",
             "description": "",
             "type": "text",
             "default_value": "",
@@ -50,7 +50,9 @@
                 "show_hide": "show",
                 "any_all": "any",
                 "hide_field": [],
-                "hide_field_cond": [],
+                "hide_field_cond": [
+                    "=="
+                ],
                 "hide_opt": [],
                 "post_field": "",
                 "custom_field": "",
