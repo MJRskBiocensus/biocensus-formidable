@@ -115,7 +115,8 @@
                 "auto_address": 0,
                 "geo_show_map": 0,
                 "geo_avoid_autofill": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "37",
             "created_at": "2025-07-25 14:00:26",
@@ -202,7 +203,8 @@
                 "auto_address": 0,
                 "geo_show_map": 0,
                 "geo_avoid_autofill": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "37",
             "created_at": "2025-07-25 16:28:00",
@@ -281,7 +283,8 @@
                 "draft": 0,
                 "edit_text": "Update",
                 "start_over": "",
-                "start_over_label": "Start Over"
+                "start_over_label": "Start Over",
+                "hide_field_cond_key": []
             },
             "form_id": "37",
             "created_at": "2025-07-25 14:00:26",

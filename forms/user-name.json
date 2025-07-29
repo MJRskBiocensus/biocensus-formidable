@@ -115,7 +115,8 @@
                 "auto_address": 0,
                 "geo_show_map": 0,
                 "geo_avoid_autofill": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "43",
             "created_at": "2025-07-25 14:00:28",
