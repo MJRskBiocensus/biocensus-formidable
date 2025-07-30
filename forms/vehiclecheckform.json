@@ -311,8 +311,7 @@
                 "geocoder_id": "",
                 "frmgeo_output_location_field": "",
                 "required_indicator": "*",
-                "geo_avoid_autofill": 1,
-                "hide_field_cond_key": []
+                "geo_avoid_autofill": 1
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:30",
@@ -357,8 +356,7 @@
                 "geocoder_id": "",
                 "frmgeo_output_location_field": "",
                 "required_indicator": "*",
-                "geo_avoid_autofill": 1,
-                "hide_field_cond_key": []
+                "geo_avoid_autofill": 1
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:30",
@@ -403,8 +401,7 @@
                 "geocoder_id": "",
                 "frmgeo_output_location_field": "",
                 "required_indicator": "*",
-                "geo_avoid_autofill": 1,
-                "hide_field_cond_key": []
+                "geo_avoid_autofill": 1
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:30",
@@ -826,8 +823,7 @@
                 "geocoder_id": "",
                 "frmgeo_output_location_field": "",
                 "required_indicator": "*",
-                "geo_avoid_autofill": 1,
-                "hide_field_cond_key": []
+                "geo_avoid_autofill": 1
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:31",
@@ -1323,8 +1319,7 @@
                 "classes": "frm_first",
                 "custom_html": "<div id=\"frm_field_[id]_container\" class=\"frm_form_field frm_section_heading form-field[error_class]\">\r\n<h3 class=\"frm_pos_[label_position][collapse_class]\">[field_name]<\/h3>\r\n[if description]<div class=\"frm_description\">[description]<\/div>[\/if description]\r\n[collapse_this]\r\n<\/div>",
                 "repeat": "0",
-                "btsp": "",
-                "hide_field_cond_key": []
+                "btsp": ""
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:31",
@@ -2192,7 +2187,7 @@
         {
             "id": "987",
             "field_key": "q6ves",
-            "name": "Due to COVID19 – please confirm it has been sanitised\/decontaminated after most recent use",
+            "name": "Due to COVID19 \u2013 please confirm it has been sanitised\/decontaminated after most recent use",
             "description": "",
             "type": "checkbox",
             "default_value": "",
@@ -2299,8 +2294,7 @@
                 "geocoder_id": "",
                 "frmgeo_output_location_field": "",
                 "required_indicator": "*",
-                "geo_avoid_autofill": 1,
-                "hide_field_cond_key": []
+                "geo_avoid_autofill": 1
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:31",
@@ -2344,8 +2338,7 @@
                 "geocoder_id": "",
                 "frmgeo_output_location_field": "",
                 "required_indicator": "*",
-                "geo_avoid_autofill": 1,
-                "hide_field_cond_key": []
+                "geo_avoid_autofill": 1
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:31",
@@ -2407,8 +2400,7 @@
                 "geocoder_id": "",
                 "frmgeo_output_location_field": "",
                 "required_indicator": "*",
-                "geo_avoid_autofill": 1,
-                "hide_field_cond_key": []
+                "geo_avoid_autofill": 1
             },
             "form_id": "44",
             "created_at": "2025-07-25 14:00:31",

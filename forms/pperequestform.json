@@ -476,8 +476,7 @@
                 "get_values_field": "11003",
                 "btsp": "",
                 "geocoder_id": "",
-                "frmgeo_output_location_field": "",
-                "hide_field_cond_key": []
+                "frmgeo_output_location_field": ""
             },
             "form_id": "40",
             "created_at": "2025-07-25 14:00:27",
@@ -548,8 +547,7 @@
                 "get_values_field": "11004",
                 "btsp": "",
                 "geocoder_id": "",
-                "frmgeo_output_location_field": "",
-                "hide_field_cond_key": []
+                "frmgeo_output_location_field": ""
             },
             "form_id": "40",
             "created_at": "2025-07-25 14:00:27",
@@ -622,8 +620,7 @@
                 "get_values_field": "11005",
                 "btsp": "",
                 "geocoder_id": "",
-                "frmgeo_output_location_field": "",
-                "hide_field_cond_key": []
+                "frmgeo_output_location_field": ""
             },
             "form_id": "40",
             "created_at": "2025-07-25 14:00:27",

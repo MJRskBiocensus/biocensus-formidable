@@ -643,8 +643,7 @@
                 "step": 1,
                 "format": "",
                 "placeholder": "",
-                "draft": 0,
-                "hide_field_cond_key": []
+                "draft": 0
             },
             "form_id": "39",
             "created_at": "2025-07-25 14:00:26",

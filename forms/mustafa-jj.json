@@ -151,8 +151,7 @@
                 "step": 1,
                 "format": "",
                 "placeholder": "",
-                "draft": 0,
-                "hide_field_cond_key": []
+                "draft": 0
             },
             "form_id": "47",
             "created_at": "2025-07-28 14:04:28",
@@ -231,8 +230,7 @@
                 "draft": 0,
                 "edit_text": "Update",
                 "start_over": "",
-                "start_over_label": "Start Over",
-                "hide_field_cond_key": []
+                "start_over_label": "Start Over"
             },
             "form_id": "47",
             "created_at": "2025-07-28 14:04:05",
