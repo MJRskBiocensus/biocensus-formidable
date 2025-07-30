@@ -124,7 +124,8 @@
                 "auto_address": 0,
                 "geo_show_map": 0,
                 "geo_avoid_autofill": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "36",
             "created_at": "2025-07-25 14:00:26",
@@ -215,7 +216,8 @@
                 "auto_address": 0,
                 "geo_show_map": 0,
                 "geo_avoid_autofill": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "36",
             "created_at": "2025-07-28 10:34:06",
@@ -314,7 +316,8 @@
                 "image_options": "0",
                 "hide_image_text": 0,
                 "image_size": "small",
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "36",
             "created_at": "2025-07-29 15:47:21",
@@ -401,7 +404,8 @@
                 "auto_address": 0,
                 "geo_show_map": 0,
                 "geo_avoid_autofill": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "36",
             "created_at": "2025-07-28 12:20:56",
@@ -488,7 +492,8 @@
                 "auto_address": 0,
                 "geo_show_map": 0,
                 "geo_avoid_autofill": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "36",
             "created_at": "2025-07-28 12:20:56",
@@ -572,7 +577,8 @@
                 "format": "",
                 "placeholder": "",
                 "draft": 0,
-                "btsp": ""
+                "btsp": "",
+                "hide_field_cond_key": []
             },
             "form_id": "36",
             "created_at": "2025-07-28 13:30:49",
