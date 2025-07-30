@@ -1,0 +1,10 @@
+{
+    "post_title": "Confirmation",
+    "post_name": "confirmation",
+    "post_status": "publish",
+    "post_type": "frm_form_actions",
+    "post_content": "{\"event\":[\"update\"],\"success_action\":\"redirect\",\"success_url\":\"https:\\\/\\\/dev2.biocensus.co.uk\\\/ppe-register\\\/\"}",
+    "post_parent": 0,
+    "menu_order": 10,
+    "meta": []
+}
