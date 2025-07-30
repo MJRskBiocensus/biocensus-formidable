@@ -2192,7 +2192,7 @@
         {
             "id": "987",
             "field_key": "q6ves",
-            "name": "Due to COVID19 \u2013 please confirm it has been sanitised\/decontaminated after most recent use",
+            "name": "Due to COVID19 – please confirm it has been sanitised\/decontaminated after most recent use",
             "description": "",
             "type": "checkbox",
             "default_value": "",
