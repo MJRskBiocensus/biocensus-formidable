@@ -434,7 +434,7 @@
     "options": {
         "on_submit_migrated": "1",
         "antispam": "1",
-        "custom_style": "12",
+        "custom_style": "modern-dark-background",
         "submit_conditions": {
             "show_hide": "show",
             "any_all": "all",
@@ -501,5 +501,6 @@
         "rootline_lines_off": 0,
         "rootline_numbers_off": 0,
         "auto_save_draft": 0
-    }
+    },
+    "style_slug": "modern-dark-background"
 }
