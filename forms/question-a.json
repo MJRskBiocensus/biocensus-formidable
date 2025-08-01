@@ -91,7 +91,7 @@
         {
             "id": "2",
             "field_key": "1xmj6",
-            "name": "Question-A4",
+            "name": "Question-A",
             "description": "",
             "type": "radio",
             "default_value": "",
@@ -364,7 +364,7 @@
         {
             "id": "5",
             "field_key": "b4c2x",
-            "name": "Phone updated",
+            "name": "Question-A- Phone updated",
             "description": "",
             "type": "phone",
             "default_value": "",
