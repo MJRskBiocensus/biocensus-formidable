@@ -1,0 +1,37 @@
+{
+    "ID": 57,
+    "post_author": "0",
+    "post_date": "2022-09-09 12:25:07",
+    "post_date_gmt": "0000-00-00 00:00:00",
+    "post_content": "{\"event\":[\"create\"],\"email_to\":\"EcologyBidding@rskbiocensus.com\",\"cc\":\"\",\"bcc\":\"\",\"from\":\"[sitename] <[admin_email]>\",\"reply_to\":\"\",\"email_subject\":\"New starter ([28]) added to Staff Portal\",\"email_message\":\"<p>An entry on the Staff list on the Portal has been created for [28] on [created-at].<\\\/p>\\r\\n<p>[24] is working for [29] as [36] and will be line managed by [813].<\\\/p>\\r\\n<p>You can see their entry on the <a href=\\\"https:\\\/\\\/dev2.biocensus.co.uk\\\/staff-info-2\\\/\\\">Staff Info list.<\\\/a><\\\/p>\\r\\n<p>Please book them in for a bid writing training session within the next couple of weeks.<\\\/p>\\r\\n<p>Thank you.<\\\/p>\",\"email_attachment_id\":\"\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"autoresponder\":{\"is_active\":\"\",\"do_default_trigger\":\"no\",\"send_interval\":\"30\",\"send_unit\":\"days\",\"send_before_after\":\"after\",\"send_date\":\"update\",\"send_after_interval_type\":\"number\",\"send_after_interval\":\"0\",\"send_after_unit\":\"days\",\"send_after_count\":\"1\"}}",
+    "post_title": "Bidding Alert",
+    "post_excerpt": "email",
+    "post_status": "draft",
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "post_password": "",
+    "post_name": "21_email_150123",
+    "to_ping": "",
+    "pinged": "",
+    "post_modified": "2022-09-09 12:25:07",
+    "post_modified_gmt": "0000-00-00 00:00:00",
+    "post_content_filtered": "",
+    "post_parent": 0,
+    "guid": "https:\/\/test1.biocensus.co.uk\/?post_type=frm_form_actions&p=57",
+    "menu_order": 3,
+    "post_type": "frm_form_actions",
+    "post_mime_type": "",
+    "comment_count": "0",
+    "filter": "raw",
+    "meta": {
+        "_wp_old_slug": [
+            "21_email_150133"
+        ],
+        "_wp_old_date": [
+            "2021-11-19"
+        ],
+        "_jetpack_post_was_ever_published": [
+            "1"
+        ]
+    }
+}
