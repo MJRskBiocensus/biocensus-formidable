@@ -9,7 +9,7 @@
         "editable": "0",
         "is_template": "0",
         "default_template": "0",
-        "status": "published",
+        "status": "trash",
         "options": {
             "on_submit_migrated": "1",
             "honeypot": "basic",
@@ -85,7 +85,8 @@
             "rootline_titles": [],
             "rootline_lines_off": 0,
             "rootline_numbers_off": 0,
-            "auto_save_draft": 0
+            "auto_save_draft": 0,
+            "trash_time": 1754055186
         },
         "created_at": "2020-12-16 12:36:26"
     },
@@ -2703,6 +2704,7 @@
         "rootline_titles": [],
         "rootline_lines_off": 0,
         "rootline_numbers_off": 0,
-        "auto_save_draft": 0
+        "auto_save_draft": 0,
+        "trash_time": 1754055186
     }
 }
