@@ -360,7 +360,7 @@
         {
             "id": "5",
             "field_key": "b4c2x",
-            "name": "Phone",
+            "name": "Phone updated",
             "description": "",
             "type": "phone",
             "default_value": "",
@@ -383,7 +383,9 @@
                 "exclude_cat": 0,
                 "read_only": 0,
                 "autocomplete": "",
-                "admin_only": "",
+                "admin_only": [
+                    ""
+                ],
                 "unique": 0,
                 "unique_msg": "",
                 "calc": "",
@@ -405,7 +407,7 @@
                 "conf_desc": "",
                 "conf_msg": "The entered values do not match",
                 "other": 0,
-                "in_section": 0,
+                "in_section": "0",
                 "prepend": "",
                 "append": "",
                 "auto_grow": 0,
@@ -422,7 +424,7 @@
                 "label": "",
                 "blank": "[field_name] cannot be blank.",
                 "required_indicator": "*",
-                "invalid": "",
+                "invalid": "[field_name] is invalid",
                 "separate_value": 0,
                 "clear_on_focus": 0,
                 "classes": "",
@@ -432,7 +434,8 @@
                 "step": 1,
                 "format": "",
                 "placeholder": "",
-                "draft": 0
+                "draft": 0,
+                "btsp": ""
             },
             "form_id": "1",
             "created_at": "2025-08-01 12:21:48",
