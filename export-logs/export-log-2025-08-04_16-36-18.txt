@@ -1,0 +1,19 @@
+Export Time: 2025-08-04 16:36:18
+Updated actions: Third-Send Email
+
+FORMS CHANGES:
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+  • "Third-Send Email":
+      post_content changed from "{\"event\":[\"create\"],\"email_to\":\"[default-email]\",\"cc\":\"\",\"bcc\":\"\",\"from\":\"[sitename] <[default-from-email]>\",\"reply_to\":\"\",\"email_subject\":\"\",\"email_message\":\"[default-message]\",\"email_attachment_id\":\"\",\"attach_csv\":\"1\",\"attach_pdf\":\"1\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"autoresponder\":{\"is_active\":\"\",\"do_default_trigger\":\"no\",\"send_interval\":\"30\",\"send_unit\":\"days\",\"send_before_after\":\"after\",\"send_date\":\"update\",\"send_after_interval_type\":\"number\",\"send_after_interval\":\"1\",\"send_after_interval_field\":\"\",\"send_after_unit\":\"days\",\"send_after_count\":\"1\"}}" to "{\"event\":[\"create\"],\"email_to\":\"[default-email]\",\"cc\":\"\",\"bcc\":\"\",\"from\":\"[sitename] <[default-from-email]>\",\"reply_to\":\"\",\"email_subject\":\"\",\"email_message\":\"[default-message][4][3][2]\",\"email_attachment_id\":\"\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"autoresponder\":{\"is_active\":\"\",\"do_default_trigger\":\"no\",\"send_interval\":\"30\",\"send_unit\":\"days\",\"send_before_after\":\"after\",\"send_date\":\"update\",\"send_after_interval_type\":\"number\",\"send_after_interval\":\"1\",\"send_after_interval_field\":\"\",\"send_after_unit\":\"days\",\"send_after_count\":\"1\"}}"
+      post_modified changed from "2025-08-04 16:26:10" to "2025-08-04 16:36:12"
+      post_modified_gmt changed from "2025-08-04 16:26:10" to "2025-08-04 16:36:12"
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
