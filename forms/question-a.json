@@ -360,7 +360,7 @@
         {
             "id": "251",
             "field_key": "fynpe",
-            "name": "Paragraph-updated",
+            "name": "Paragraph",
             "description": "",
             "type": "textarea",
             "default_value": "",
@@ -379,7 +379,7 @@
                     "=="
                 ],
                 "hide_opt": [
-                    "no"
+                    "yes"
                 ],
                 "post_field": "",
                 "custom_field": "",
@@ -446,15 +446,15 @@
             "form_name": "Question-A"
         },
         {
-            "id": "254",
-            "field_key": "oc763",
-            "name": "new-text",
+            "id": "255",
+            "field_key": "lionr",
+            "name": "Time",
             "description": "",
-            "type": "text",
+            "type": "time",
             "default_value": "",
             "options": "",
-            "field_order": "14",
-            "required": "1",
+            "field_order": "16",
+            "required": "0",
             "field_options": {
                 "align": "block",
                 "form_select": "",
@@ -471,9 +471,7 @@
                 "exclude_cat": 0,
                 "read_only": 0,
                 "autocomplete": "",
-                "admin_only": [
-                    ""
-                ],
+                "admin_only": "",
                 "unique": 0,
                 "unique_msg": "",
                 "calc": "",
@@ -481,7 +479,7 @@
                 "calc_type": "",
                 "is_currency": 0,
                 "custom_currency": 0,
-                "use_global_currency": "0",
+                "use_global_currency": 1,
                 "custom_thousand_separator": ",",
                 "custom_decimal_separator": ".",
                 "custom_decimals": 2,
@@ -495,7 +493,7 @@
                 "conf_desc": "",
                 "conf_msg": "The entered values do not match",
                 "other": 0,
-                "in_section": "0",
+                "in_section": 0,
                 "prepend": "",
                 "append": "",
                 "auto_grow": 0,
@@ -512,24 +510,25 @@
                 "label": "",
                 "blank": "[field_name] cannot be blank.",
                 "required_indicator": "*",
-                "invalid": "[field_name] is invalid",
+                "invalid": "",
                 "separate_value": 0,
                 "clear_on_focus": 0,
-                "classes": "frm_half",
-                "custom_html": "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<label for=\"field_[key]\" id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/label>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>",
+                "classes": "",
+                "custom_html": "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<div  id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/div>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>",
                 "minnum": 1,
                 "maxnum": 10,
-                "step": 1,
+                "step": 30,
                 "format": "",
                 "placeholder": "",
                 "draft": 0,
-                "auto_address": 0,
-                "geo_show_map": 0,
-                "geo_avoid_autofill": 0,
-                "btsp": ""
+                "start_time": "00:00",
+                "end_time": "23:30",
+                "clock": 12,
+                "single_time": 0,
+                "step_unit": "min"
             },
             "form_id": "1",
-            "created_at": "2025-08-04 12:42:26",
+            "created_at": "2025-08-04 12:55:41",
             "form_name": "Question-A"
         },
         {
@@ -540,7 +539,7 @@
             "type": "submit",
             "default_value": "",
             "options": [],
-            "field_order": "15",
+            "field_order": "17",
             "required": "0",
             "field_options": {
                 "align": "",

@@ -1,0 +1,47 @@
+Export Time: 2025-08-04 12:55:57
+Updated forms: Question-A
+
+FORMS CHANGES:
+- Question-A
+  •   • Field #3 (ID: unknown) UPDATED:
+  •     - field_options.hide_opt.0 changed from "no" to "yes"
+  •   • Field #3 (ID: unknown) UPDATED:
+  •     - name changed from "Paragraph-updated" to "Paragraph"
+  • fields.4.field_options.start_time added: "00:00"
+  • fields.4.field_options.end_time added: "23:30"
+  • fields.4.field_options.clock added: 12
+  • fields.4.field_options.single_time added: 0
+  • fields.4.field_options.step_unit added: "min"
+  • fields.4.field_options.auto_address removed
+  • fields.4.field_options.geo_show_map removed
+  • fields.4.field_options.geo_avoid_autofill removed
+  • fields.4.field_options.btsp removed
+  •   • Field #4 (ID: unknown) UPDATED:
+  •     - field_options.admin_only changed from [""] to ""
+  •     - field_options.use_global_currency changed from "0" to 1
+  •     - field_options.in_section changed from "0" to 0
+  •     - field_options.invalid changed from "[field_name] is invalid" to ""
+  •     - field_options.classes changed from "frm_half" to ""
+  •     - field_options.custom_html changed from "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<label for=\"field_[key]\" id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/label>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>" to "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<div  id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/div>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>"
+  •     - field_options.step changed from 1 to 30
+  •   • Field #4 (ID: unknown) UPDATED:
+  •     - id changed from "254" to "255"
+  •     - field_key changed from "oc763" to "lionr"
+  •     - name changed from "new-text" to "Time"
+  •     - type changed from "text" to "time"
+  •     - field_order changed from "14" to "16"
+  •     - required changed from "1" to "0"
+  •     - created_at changed from "2025-08-04 12:42:26" to "2025-08-04 12:55:41"
+  •   • Field #5 (ID: unknown) UPDATED:
+  •     - field_order changed from "15" to "17"
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
