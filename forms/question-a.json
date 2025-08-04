@@ -87,7 +87,7 @@
         {
             "id": "2",
             "field_key": "1xmj6",
-            "name": "Question-updated",
+            "name": "Question",
             "description": "",
             "type": "radio",
             "default_value": "",
