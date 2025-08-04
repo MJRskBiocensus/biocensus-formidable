@@ -1,0 +1,66 @@
+Export Time: 2025-08-04 16:26:58
+Updated forms: Question-A | actions: Second-Confirmation, Third-Send Email, First-Confirmation | views: Question-A View | styles: Big Text | snippets: Current year | plugins: formidable
+
+FORMS CHANGES:
+- Question-A
+  • form.options.custom_style changed from "89" to "90"
+  • form.options.success_action changed from "page" to "message"
+  • form.options.show_form changed from 0 to false
+  • form.options.success_page_id changed from "84" to ""
+  • Updated fields:
+  •   • Field "Question-1":
+  •       name changed from "Question" to "Question-1"
+  •       required changed from "0" to "1"
+  •   • Field "Question-2":
+  •       name changed from "Question-A" to "Question-2"
+  •   • Field "Question-3":
+  •       name changed from "Question-A-2" to "Question-3"
+  •       field_options.classes changed from "" to "frm12"
+  •   • Field "Summary-updated":
+  •       name changed from "Paragraph-updated" to "Summary-updated"
+  •       field_options.hide_opt.0 changed from "yes please" to "yes"
+  • 
+Created fields:
+  •   • Field "Toggle"
+  • 
+Removed fields:
+  •   • Field "Captcha"
+  • options.custom_style changed from "89" to "90"
+  • options.success_action changed from "page" to "message"
+  • options.show_form changed from 0 to false
+  • options.success_page_id changed from "84" to ""
+
+VIEWS CHANGES:
+  • "Question-A View":
+      post_content changed from "\t<li> [3]<\/li>\n\t<li>[4]<\/li>\n\t<li>[5]<\/li>\n" to "<ol>\n<li> [3]<\/li>\n<li>[4]<\/li>\n<\/ol>\n\n"
+      post_modified changed from "2025-08-01 14:13:29" to "2025-08-04 16:26:50"
+      post_modified_gmt changed from "2025-08-01 14:13:29" to "2025-08-04 16:26:50"
+
+ACTIONS CHANGES:
+  • "Second-Confirmation":
+      post_content changed from "{\"event\":[\"create\"],\"success_action\":\"message\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"success_url\":\"\",\"redirect_delay_time\":\"8\",\"redirect_delay_msg\":\"Please wait while you are redirected.\",\"success_page_id\":\"\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"}}" to "{\"event\":[\"create\"],\"success_action\":\"redirect\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"success_url\":\"https:\\\/\\\/test1.biocensus.co.uk\\\/cart\",\"redirect_delay_time\":\"8\",\"redirect_delay_msg\":\"Please wait while you are redirected.\",\"success_page_id\":\"\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"}}"
+      post_title changed from "Confirmation" to "Second-Confirmation"
+      post_modified changed from "2025-08-01 16:24:23" to "2025-08-04 16:26:10"
+      post_modified_gmt changed from "2025-08-01 16:24:23" to "2025-08-04 16:26:10"
+  • "Third-Send Email":
+      post_content changed from "{\"event\":[\"create\"],\"email_to\":\"[default-email]\",\"cc\":\"\",\"bcc\":\"\",\"from\":\"[sitename] <[default-from-email]>\",\"reply_to\":\"\",\"email_subject\":\"\",\"email_message\":\"[default-message]\",\"email_attachment_id\":\"\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"autoresponder\":{\"is_active\":\"\",\"do_default_trigger\":\"no\",\"send_interval\":\"30\",\"send_unit\":\"days\",\"send_before_after\":\"after\",\"send_date\":\"update\",\"send_after_interval_type\":\"number\",\"send_after_interval\":\"1\",\"send_after_interval_field\":\"\",\"send_after_unit\":\"days\",\"send_after_count\":\"1\"}}" to "{\"event\":[\"create\"],\"email_to\":\"[default-email]\",\"cc\":\"\",\"bcc\":\"\",\"from\":\"[sitename] <[default-from-email]>\",\"reply_to\":\"\",\"email_subject\":\"\",\"email_message\":\"[default-message]\",\"email_attachment_id\":\"\",\"attach_csv\":\"1\",\"attach_pdf\":\"1\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"},\"autoresponder\":{\"is_active\":\"\",\"do_default_trigger\":\"no\",\"send_interval\":\"30\",\"send_unit\":\"days\",\"send_before_after\":\"after\",\"send_date\":\"update\",\"send_after_interval_type\":\"number\",\"send_after_interval\":\"1\",\"send_after_interval_field\":\"\",\"send_after_unit\":\"days\",\"send_after_count\":\"1\"}}"
+      post_title changed from "Q-Send Email" to "Third-Send Email"
+      post_modified changed from "2025-08-04 15:58:53" to "2025-08-04 16:26:10"
+      post_modified_gmt changed from "2025-08-04 15:58:53" to "2025-08-04 16:26:10"
+  • "First-Confirmation":
+      post_content changed from "{\"event\":[\"create\"],\"success_action\":\"page\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"success_url\":\"\",\"redirect_delay_time\":\"8\",\"redirect_delay_msg\":\"Please wait while you are redirected.\",\"success_page_id\":\"84\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"}}" to "{\"event\":[\"create\"],\"success_action\":\"message\",\"success_msg\":\"Your responses were successfully submitted. Thank you!\",\"success_url\":\"\",\"redirect_delay_time\":\"8\",\"redirect_delay_msg\":\"Please wait while you are redirected.\",\"success_page_id\":\"84\",\"conditions\":{\"send_stop\":\"send\",\"any_all\":\"any\"}}"
+      post_title changed from "A2-Confirmation" to "First-Confirmation"
+      post_modified changed from "2025-08-04 16:17:26" to "2025-08-04 16:26:10"
+      post_modified_gmt changed from "2025-08-04 16:17:26" to "2025-08-04 16:26:10"
+
+STYLES CHANGES:
+  • "Big Text":
+      1
+
+SNIPPETS CHANGES:
+  • "Current year":
+      code changed from "<?php echo date('F,j,Y'); ?>\n" to "<?php echo date('Y'); ?>\n"
+
+PLUGINS CHANGES:
+formidable
+
