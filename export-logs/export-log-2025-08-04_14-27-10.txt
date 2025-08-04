@@ -1,0 +1,32 @@
+Export Time: 2025-08-04 14:27:10
+Updated forms: Question-A
+
+FORMS CHANGES:
+- Question-A
+  • Field at index 0:
+  •   • fields.0.name changed from "Question-updated" to "Question"
+  • Field at index 5:
+  •   • fields.5.field_options.custom_html changed from "" to "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<label for=\"field_[key]\" id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/label>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>"
+  •   • fields.5.field_options.maxnum changed from 10 to 9999999
+  •   • fields.5.field_options.minnum changed from 1 to 0
+  •   • fields.5.field_options.step changed from 1 to "any"
+  • Field at index 5:
+  •   • fields.5.created_at changed from "2025-08-04 13:59:16" to "2025-08-04 14:26:54"
+  •   • fields.5.field_key changed from "3jgqj" to "bjsuo"
+  •   • fields.5.field_order changed from "28" to "30"
+  •   • fields.5.id changed from "261" to "262"
+  •   • fields.5.name changed from "Hidden" to "Number"
+  •   • fields.5.type changed from "hidden" to "number"
+  • Field at index 6:
+  •   • fields.6.field_order changed from "29" to "31"
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
