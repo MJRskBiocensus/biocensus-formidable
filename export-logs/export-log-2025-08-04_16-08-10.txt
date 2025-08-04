@@ -1,0 +1,33 @@
+Export Time: 2025-08-04 16:08:10
+Updated forms: Question-A | actions: 0, 1, 2, 3, 4
+
+FORMS CHANGES:
+- Question-A
+  • form.options.success_action changed from "message" to "redirect"
+  • form.options.open_in_new_tab added: false
+  • form.options.redirect_delay added: false
+  • form.options.redirect_delay_time added: "8"
+  • form.options.redirect_delay_msg added: "Please wait while you are redirected."
+  • form.options.show_form changed from false to 0
+  • options.success_action changed from "message" to "redirect"
+  • options.open_in_new_tab added: false
+  • options.redirect_delay added: false
+  • options.redirect_delay_time added: "8"
+  • options.redirect_delay_msg added: "Please wait while you are redirected."
+  • options.show_form changed from false to 0
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+- 0
+- 1
+- 2
+- 3
+- 4
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
