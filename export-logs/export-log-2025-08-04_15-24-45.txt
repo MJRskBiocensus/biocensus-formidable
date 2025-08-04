@@ -1,0 +1,20 @@
+Export Time: 2025-08-04 15:24:45
+Updated forms: Question-A
+
+FORMS CHANGES:
+- Question-A
+  • Field "Question" → required changed from "1" to "0"
+  • Field "Question-A" → required changed from "1" to "0"
+  • Field "Question-A" → field_options.classes changed from "frm6 frm_first" to "frm12"
+  • Field "Paragraph-updated" → required changed from "0" to "1"
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
