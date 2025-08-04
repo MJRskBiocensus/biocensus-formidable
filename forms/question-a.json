@@ -87,7 +87,7 @@
         {
             "id": "2",
             "field_key": "1xmj6",
-            "name": "Question",
+            "name": "New-Question",
             "description": "",
             "type": "radio",
             "default_value": "",
@@ -104,7 +104,7 @@
                 }
             ],
             "field_order": "2",
-            "required": "0",
+            "required": "1",
             "field_options": {
                 "align": "block",
                 "form_select": "",
@@ -446,15 +446,15 @@
             "form_name": "Question-A"
         },
         {
-            "id": "256",
-            "field_key": "2b2fl",
-            "name": "Email",
+            "id": "263",
+            "field_key": "fql5v",
+            "name": "Phone",
             "description": "",
-            "type": "email",
+            "type": "phone",
             "default_value": "",
             "options": "",
-            "field_order": "18",
-            "required": "1",
+            "field_order": "32",
+            "required": "0",
             "field_options": {
                 "align": "block",
                 "form_select": "",
@@ -470,10 +470,8 @@
                 "taxonomy": "category",
                 "exclude_cat": 0,
                 "read_only": 0,
-                "autocomplete": "email",
-                "admin_only": [
-                    ""
-                ],
+                "autocomplete": "",
+                "admin_only": "",
                 "unique": 0,
                 "unique_msg": "",
                 "calc": "",
@@ -495,7 +493,7 @@
                 "conf_desc": "",
                 "conf_msg": "The entered values do not match",
                 "other": 0,
-                "in_section": "0",
+                "in_section": 0,
                 "prepend": "",
                 "append": "",
                 "auto_grow": 0,
@@ -512,21 +510,20 @@
                 "label": "",
                 "blank": "[field_name] cannot be blank.",
                 "required_indicator": "*",
-                "invalid": "[field_name] is invalid",
+                "invalid": "",
                 "separate_value": 0,
                 "clear_on_focus": 0,
-                "classes": "frm12",
+                "classes": "",
                 "custom_html": "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<label for=\"field_[key]\" id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/label>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>",
                 "minnum": 1,
                 "maxnum": 10,
                 "step": 1,
                 "format": "",
                 "placeholder": "",
-                "draft": 0,
-                "btsp": ""
+                "draft": 0
             },
             "form_id": "1",
-            "created_at": "2025-08-04 12:59:23",
+            "created_at": "2025-08-04 15:35:07",
             "form_name": "Question-A"
         },
         {
@@ -537,7 +534,7 @@
             "type": "submit",
             "default_value": "",
             "options": [],
-            "field_order": "31",
+            "field_order": "33",
             "required": "0",
             "field_options": {
                 "align": "",

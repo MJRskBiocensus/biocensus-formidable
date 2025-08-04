@@ -1,0 +1,26 @@
+Export Time: 2025-08-04 15:35:14
+Updated forms: Question-A
+
+FORMS CHANGES:
+- Question-A
+  • Updated fields:
+  •   • Field "New-Question":
+  •       name changed from "Question" to "New-Question"
+  •       required changed from "0" to "1"
+  • 
+Created fields:
+  •   • Field "Phone"
+  • 
+Removed fields:
+  •   • Field "Email"
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
