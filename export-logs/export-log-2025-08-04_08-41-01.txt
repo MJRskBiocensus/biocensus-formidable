@@ -1,0 +1,221 @@
+Export Time: 2025-08-04 08:41:01
+Updated forms: Question-A, PPE Items | actions: Confirmation, Q-A-S-Send Email
+
+FORMS CHANGES:
+- Question-A
+  • fields.0.name changed from "Question-A" to "Question-A-S"
+  • fields.3.name changed from "Paragraph" to "Paragraph-updated"
+  • fields.3.required changed from "0" to "1"
+  • fields.3.field_options.admin_only changed from "" to [""]
+  • fields.3.field_options.use_global_currency changed from 1 to "0"
+  • fields.3.field_options.in_section changed from 0 to "0"
+  • fields.3.field_options.max_limit changed from 0 to "0"
+  • fields.3.field_options.invalid changed from "" to "[field_name] is invalid"
+  • fields.3.field_options.classes changed from "" to "frm_half"
+  • fields.3.field_options.btsp added: ""
+- PPE Items
+  • fields.0.required changed from "0" to "1"
+  • fields.0.field_options.align added: "block"
+  • fields.0.field_options.form_select added: ""
+  • fields.0.field_options.show_hide added: "show"
+  • fields.0.field_options.any_all added: "any"
+  • fields.0.field_options.hide_field added: []
+  • fields.0.field_options.hide_field_cond added: ["=="]
+  • fields.0.field_options.hide_opt added: []
+  • fields.0.field_options.read_only added: 0
+  • fields.0.field_options.autocomplete added: ""
+  • fields.0.field_options.unique added: 0
+  • fields.0.field_options.calc added: ""
+  • fields.0.field_options.calc_dec added: ""
+  • fields.0.field_options.calc_type added: ""
+  • fields.0.field_options.is_currency added: 0
+  • fields.0.field_options.custom_currency added: 0
+  • fields.0.field_options.use_global_currency added: "0"
+  • fields.0.field_options.custom_thousand_separator added: ","
+  • fields.0.field_options.custom_decimal_separator added: "."
+  • fields.0.field_options.custom_decimals added: 2
+  • fields.0.field_options.custom_symbol_left added: ""
+  • fields.0.field_options.custom_symbol_right added: ""
+  • fields.0.field_options.dyn_default_value added: ""
+  • fields.0.field_options.multiple added: 0
+  • fields.0.field_options.autocom added: 0
+  • fields.0.field_options.conf_field added: ""
+  • fields.0.field_options.conf_input added: ""
+  • fields.0.field_options.conf_desc added: ""
+  • fields.0.field_options.conf_msg added: "The entered values do not match"
+  • fields.0.field_options.other added: 0
+  • fields.0.field_options.prepend added: ""
+  • fields.0.field_options.append added: ""
+  • fields.0.field_options.auto_grow added: 0
+  • fields.0.field_options.max_limit added: 0
+  • fields.0.field_options.max_limit_type added: "char"
+  • fields.0.field_options.min_size added: ""
+  • fields.0.field_options.get_values_form added: ""
+  • fields.0.field_options.get_values_field added: ""
+  • fields.0.field_options.watch_lookup added: []
+  • fields.0.field_options.get_most_recent_value added: ""
+  • fields.0.field_options.lookup_filter_current_user added: false
+  • fields.0.field_options.size added: ""
+  • fields.0.field_options.max added: ""
+  • fields.0.field_options.label added: ""
+  • fields.0.field_options.required_indicator added: "*"
+  • fields.0.field_options.separate_value added: 0
+  • fields.0.field_options.clear_on_focus added: 0
+  • fields.0.field_options.classes added: ""
+  • fields.0.field_options.minnum added: 1
+  • fields.0.field_options.maxnum added: 10
+  • fields.0.field_options.step added: 1
+  • fields.0.field_options.format added: ""
+  • fields.0.field_options.placeholder added: ""
+  • fields.0.field_options.draft added: 0
+  • fields.0.field_options.auto_address added: 0
+  • fields.0.field_options.geo_show_map added: 0
+  • fields.1.field_options.align added: "block"
+  • fields.1.field_options.form_select added: ""
+  • fields.1.field_options.show_hide added: "show"
+  • fields.1.field_options.any_all added: "any"
+  • fields.1.field_options.hide_field added: []
+  • fields.1.field_options.hide_field_cond added: ["=="]
+  • fields.1.field_options.hide_opt added: []
+  • fields.1.field_options.read_only added: "1"
+  • fields.1.field_options.autocomplete added: ""
+  • fields.1.field_options.unique added: 0
+  • fields.1.field_options.calc added: ""
+  • fields.1.field_options.calc_dec added: ""
+  • fields.1.field_options.calc_type added: ""
+  • fields.1.field_options.is_currency added: 0
+  • fields.1.field_options.custom_currency added: 0
+  • fields.1.field_options.use_global_currency added: "0"
+  • fields.1.field_options.custom_thousand_separator added: ","
+  • fields.1.field_options.custom_decimal_separator added: "."
+  • fields.1.field_options.custom_decimals added: 2
+  • fields.1.field_options.custom_symbol_left added: ""
+  • fields.1.field_options.custom_symbol_right added: ""
+  • fields.1.field_options.dyn_default_value added: ""
+  • fields.1.field_options.multiple added: 0
+  • fields.1.field_options.autocom added: 0
+  • fields.1.field_options.conf_field added: ""
+  • fields.1.field_options.conf_input added: ""
+  • fields.1.field_options.conf_desc added: ""
+  • fields.1.field_options.conf_msg added: "The entered values do not match"
+  • fields.1.field_options.other added: 0
+  • fields.1.field_options.prepend added: ""
+  • fields.1.field_options.append added: ""
+  • fields.1.field_options.auto_grow added: 0
+  • fields.1.field_options.max_limit added: 0
+  • fields.1.field_options.max_limit_type added: "char"
+  • fields.1.field_options.min_size added: ""
+  • fields.1.field_options.get_values_form added: ""
+  • fields.1.field_options.get_values_field added: ""
+  • fields.1.field_options.watch_lookup added: []
+  • fields.1.field_options.get_most_recent_value added: ""
+  • fields.1.field_options.lookup_filter_current_user added: false
+  • fields.1.field_options.size added: ""
+  • fields.1.field_options.max added: ""
+  • fields.1.field_options.label added: ""
+  • fields.1.field_options.required_indicator added: ""
+  • fields.1.field_options.separate_value added: 0
+  • fields.1.field_options.clear_on_focus added: 0
+  • fields.1.field_options.classes added: ""
+  • fields.1.field_options.minnum added: 1
+  • fields.1.field_options.maxnum added: 10
+  • fields.1.field_options.step added: 1
+  • fields.1.field_options.format added: ""
+  • fields.1.field_options.placeholder added: ""
+  • fields.1.field_options.draft added: 0
+  • fields.1.field_options.auto_address added: 0
+  • fields.1.field_options.geo_show_map added: 0
+  • fields.7.id changed from "168" to "252"
+  • fields.7.field_key changed from "j3f64" to "ei1gl"
+  • fields.7.name changed from "Submit" to "mustafa"
+  • fields.7.type changed from "submit" to "text"
+  • fields.7.field_order changed from "8" to "9"
+  • fields.7.field_options.align added: "block"
+  • fields.7.field_options.form_select added: ""
+  • fields.7.field_options.show_hide added: "show"
+  • fields.7.field_options.any_all added: "any"
+  • fields.7.field_options.hide_field added: []
+  • fields.7.field_options.hide_field_cond added: ["=="]
+  • fields.7.field_options.hide_opt added: []
+  • fields.7.field_options.post_field added: ""
+  • fields.7.field_options.custom_field added: ""
+  • fields.7.field_options.taxonomy added: "category"
+  • fields.7.field_options.exclude_cat added: 0
+  • fields.7.field_options.read_only added: 0
+  • fields.7.field_options.autocomplete added: ""
+  • fields.7.field_options.admin_only added: [""]
+  • fields.7.field_options.unique added: 0
+  • fields.7.field_options.unique_msg added: ""
+  • fields.7.field_options.calc added: ""
+  • fields.7.field_options.calc_dec added: ""
+  • fields.7.field_options.calc_type added: ""
+  • fields.7.field_options.is_currency added: 0
+  • fields.7.field_options.custom_currency added: 0
+  • fields.7.field_options.use_global_currency added: "0"
+  • fields.7.field_options.custom_thousand_separator added: ","
+  • fields.7.field_options.custom_decimal_separator added: "."
+  • fields.7.field_options.custom_decimals added: 2
+  • fields.7.field_options.custom_symbol_left added: ""
+  • fields.7.field_options.custom_symbol_right added: ""
+  • fields.7.field_options.dyn_default_value added: ""
+  • fields.7.field_options.multiple added: 0
+  • fields.7.field_options.autocom added: 0
+  • fields.7.field_options.conf_field added: ""
+  • fields.7.field_options.conf_input added: ""
+  • fields.7.field_options.conf_desc added: ""
+  • fields.7.field_options.conf_msg added: "The entered values do not match"
+  • fields.7.field_options.other added: 0
+  • fields.7.field_options.in_section changed from 0 to "0"
+  • fields.7.field_options.prepend added: ""
+  • fields.7.field_options.append added: ""
+  • fields.7.field_options.auto_grow added: 0
+  • fields.7.field_options.max_limit added: 0
+  • fields.7.field_options.max_limit_type added: "char"
+  • fields.7.field_options.min_size added: ""
+  • fields.7.field_options.get_values_form added: ""
+  • fields.7.field_options.get_values_field added: ""
+  • fields.7.field_options.watch_lookup added: []
+  • fields.7.field_options.get_most_recent_value added: ""
+  • fields.7.field_options.lookup_filter_current_user added: false
+  • fields.7.field_options.size added: ""
+  • fields.7.field_options.max added: ""
+  • fields.7.field_options.label added: ""
+  • fields.7.field_options.blank added: "[field_name] cannot be blank."
+  • fields.7.field_options.required_indicator added: "*"
+  • fields.7.field_options.invalid added: "[field_name] is invalid"
+  • fields.7.field_options.separate_value added: 0
+  • fields.7.field_options.clear_on_focus added: 0
+  • fields.7.field_options.classes added: ""
+  • fields.7.field_options.custom_html added: "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<label for=\"field_[key]\" id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/label>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>"
+  • fields.7.field_options.minnum added: 1
+  • fields.7.field_options.maxnum added: 10
+  • fields.7.field_options.step added: 1
+  • fields.7.field_options.format added: ""
+  • fields.7.field_options.placeholder added: ""
+  • fields.7.field_options.draft added: 0
+  • fields.7.field_options.auto_address added: 0
+  • fields.7.field_options.geo_show_map added: 0
+  • fields.7.field_options.geo_avoid_autofill added: 0
+  • fields.7.field_options.btsp added: ""
+  • fields.7.field_options.start_over_label removed
+  • fields.7.created_at changed from "2025-08-01 12:51:16" to "2025-08-04 08:40:43"
+  • fields.8 added: {"id":"168","field_key":"j3f64","name":"Submit","description":"","type":"submit","default_value":"","options":"","field_order":"10","required":"0","field_options":{"start_over_label":"","in_section":0},"form_id":"7","created_at":"2025-08-01 12:51:16","form_name":"PPE Items"}
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+- Confirmation
+  • post_title changed from "MJQ-Confirmation" to "Confirmation"
+  • post_modified changed from "2025-08-01 15:59:20" to "2025-08-01 16:24:23"
+  • post_modified_gmt changed from "2025-08-01 15:59:20" to "2025-08-01 16:24:23"
+- Q-A-S-Send Email
+  • post_title changed from "Q-A-Send Email" to "Q-A-S-Send Email"
+  • post_modified changed from "2025-08-01 14:15:52" to "2025-08-01 16:24:32"
+  • post_modified_gmt changed from "2025-08-01 14:15:52" to "2025-08-01 16:24:32"
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
