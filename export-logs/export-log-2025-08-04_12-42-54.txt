@@ -1,0 +1,27 @@
+Export Time: 2025-08-04 12:42:54
+Updated forms: Question-A
+
+FORMS CHANGES:
+- Question-A
+  • fields.4.id changed from "253" to "254"
+  • fields.4.field_key changed from "v10rd" to "oc763"
+  • fields.4.name changed from "Text" to "new-text"
+  • fields.4.field_order changed from "12" to "14"
+  • fields.4.required changed from "0" to "1"
+  • fields.4.field_options.auto_address added: 0
+  • fields.4.field_options.geo_show_map added: 0
+  • fields.4.field_options.geo_avoid_autofill added: 0
+  • fields.4.field_options.btsp added: ""
+  • fields.4.created_at changed from "2025-08-04 11:06:36" to "2025-08-04 12:42:26"
+  • fields.5.field_order changed from "13" to "15"
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
