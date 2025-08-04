@@ -13,7 +13,7 @@
         "options": {
             "on_submit_migrated": "1",
             "antispam": "1",
-            "custom_style": "88",
+            "custom_style": "89",
             "submit_conditions": {
                 "show_hide": "show",
                 "any_all": "all",
@@ -600,7 +600,7 @@
     "options": {
         "on_submit_migrated": "1",
         "antispam": "1",
-        "custom_style": "88",
+        "custom_style": "89",
         "submit_conditions": {
             "show_hide": "show",
             "any_all": "all",
