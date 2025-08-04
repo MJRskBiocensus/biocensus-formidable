@@ -1,0 +1,38 @@
+Export Time: 2025-08-04 16:00:12
+Updated forms: Question-A | views: 0, 1 | styles: 0, 1 | snippets: 0, 1 | plugins: formidable
+
+FORMS CHANGES:
+- Question-A
+  • form.options.custom_style changed from "10" to "88"
+  • Updated fields:
+  •   • Field "Question":
+  •       name changed from "New-Question" to "Question"
+  •       required changed from "1" to "0"
+  •       field_options.classes changed from "frm12" to "frm_half"
+  •   • Field "Question-A":
+  •       field_options.classes changed from "frm12" to "frm_half"
+  • 
+Created fields:
+  •   • Field "Captcha"
+  • 
+Removed fields:
+  •   • Field "Phone"
+  • options.custom_style changed from "10" to "88"
+
+VIEWS CHANGES:
+- 0
+- 1
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+- 0
+- 1
+
+SNIPPETS CHANGES:
+- 0
+- 1
+
+PLUGINS CHANGES:
+- 0
+
