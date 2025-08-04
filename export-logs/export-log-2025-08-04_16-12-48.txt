@@ -1,0 +1,33 @@
+Export Time: 2025-08-04 16:12:48
+Updated forms: Question-A | actions: A-Confirmation
+
+FORMS CHANGES:
+- Question-A
+  • form.options.success_action changed from "redirect" to "message"
+  • form.options.show_form changed from 0 to false
+  • form.options.open_in_new_tab removed
+  • form.options.redirect_delay removed
+  • form.options.redirect_delay_time removed
+  • form.options.redirect_delay_msg removed
+  • options.success_action changed from "redirect" to "message"
+  • options.show_form changed from 0 to false
+  • options.open_in_new_tab removed
+  • options.redirect_delay removed
+  • options.redirect_delay_time removed
+  • options.redirect_delay_msg removed
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+- 0
+- 1
+- 2
+- 3
+- 4
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
