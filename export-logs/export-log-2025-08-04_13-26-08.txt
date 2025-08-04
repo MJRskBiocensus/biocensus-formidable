@@ -1,0 +1,30 @@
+Export Time: 2025-08-04 13:26:08
+Updated forms: Question-A
+
+FORMS CHANGES:
+- Question-A
+  •   • Field 'Field #0' (ID: unknown) UPDATED:
+  •     - name changed from [0;31m"Question-A"[0m to [0;32m"First-Question"[0m
+  •   • Field 'Field #5' (ID: unknown) UPDATED:
+  •     - options.0 changed from [0;31m"Option 1"[0m to [0;32m{"label":"Option 1","value":"Option 1","image":"Option 1"}[0m
+  •     - options.1 changed from [0;31m"Option 2"[0m to [0;32m{"label":"Option 2","value":"Option 2","image":"Option 2"}[0m
+  •   • Field 'Field #5' (ID: unknown) UPDATED:
+  •     - field_options.admin_only changed from [0;31m""[0m to [0;32m[""][0m
+  •     - field_options.other changed from [0;31m0[0m to [0;32m"0"[0m
+  •     - field_options.in_section changed from [0;31m0[0m to [0;32m"0"[0m
+  •     - field_options.invalid changed from [0;31m""[0m to [0;32m"[field_name] is invalid"[0m
+  •     - field_options.image_options changed from [0;31m0[0m to [0;32m"0"[0m
+  •     - field_options.image_size changed from [0;31m""[0m to [0;32m"small"[0m
+  •   • Field 'Field #5' (ID: unknown) UPDATED:
+  •     - required changed from [0;31m"0"[0m to [0;32m"1"[0m
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
