@@ -1,0 +1,21 @@
+Export Time: 2025-08-04 11:00:39
+Updated forms: Question-A | snippets: Current year
+
+FORMS CHANGES:
+- Question-A
+  • fields.2.field_options.calc_dec changed from "2" to ""
+  • fields.2.field_options.classes changed from "frm_half" to ""
+  • fields.2.field_options.format changed from "currency" to ""
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+- Current year
+  • code changed from "<?php echo date('F j, Y'); ?>\n" to "<?php echo date('F, Y'); ?>\n"
+
+PLUGINS CHANGES:
+
