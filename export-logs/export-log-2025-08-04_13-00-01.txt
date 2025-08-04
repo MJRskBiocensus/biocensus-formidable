@@ -1,0 +1,39 @@
+Export Time: 2025-08-04 13:00:01
+Updated forms: Question-A
+
+FORMS CHANGES:
+- Question-A
+  •   • Field #3 (ID: unknown) UPDATED:
+  •     - field_options.hide_opt.0 changed from "yes" to "yes please"
+  •   • Field #3 (ID: unknown) UPDATED:
+  •     - name changed from "Paragraph" to "Paragraph-updated"
+  •     - required changed from "1" to "0"
+  •   • Field #4 (ID: unknown) UPDATED:
+  •     - field_options.autocomplete changed from "" to "email"
+  •     - field_options.admin_only changed from "" to [""]
+  •     - field_options.in_section changed from 0 to "0"
+  •     - field_options.invalid changed from "" to "[field_name] is invalid"
+  •     - field_options.classes changed from "" to "frm12"
+  •     - field_options.custom_html changed from "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<div  id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/div>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>" to "<div id=\"frm_field_[id]_container\" class=\"frm_form_field form-field [required_class][error_class]\">\n\t<label for=\"field_[key]\" id=\"field_[key]_label\" class=\"frm_primary_label\">[field_name]\n\t\t<span class=\"frm_required\" aria-hidden=\"true\">[required_label]<\/span>\n\t<\/label>\n\t[input]\n\t[if description]<div class=\"frm_description\" id=\"frm_desc_field_[key]\">[description]<\/div>[\/if description]\n\t[if error]<div class=\"frm_error\" role=\"alert\" id=\"frm_error_field_[key]\">[error]<\/div>[\/if error]\n<\/div>"
+  •     - field_options.step changed from 30 to 1
+  •   • Field #4 (ID: unknown) UPDATED:
+  •     - id changed from "255" to "256"
+  •     - field_key changed from "lionr" to "2b2fl"
+  •     - name changed from "Time" to "Email"
+  •     - type changed from "time" to "email"
+  •     - field_order changed from "16" to "18"
+  •     - required changed from "0" to "1"
+  •     - created_at changed from "2025-08-04 12:55:41" to "2025-08-04 12:59:23"
+  •   • Field #5 (ID: unknown) UPDATED:
+  •     - field_order changed from "17" to "19"
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+
+PLUGINS CHANGES:
+
