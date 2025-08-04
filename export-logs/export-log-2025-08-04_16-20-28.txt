@@ -1,0 +1,17 @@
+Export Time: 2025-08-04 16:20:28
+Updated snippets: Current year
+
+FORMS CHANGES:
+
+VIEWS CHANGES:
+
+ACTIONS CHANGES:
+
+STYLES CHANGES:
+
+SNIPPETS CHANGES:
+  • "Current year":
+      code changed from "<?php echo date('Y'); ?>\n" to "<?php echo date('F,j,Y'); ?>\n"
+
+PLUGINS CHANGES:
+
